@@ -16134,7 +16134,7 @@ SaaSio - HR Management
   padding-left: 60px;
 }
 .pm-footer-section .pm-footer-widget .pm-footer-support span, .header-type-one .pm-header-support span {
-  color: #5c8ed0;
+  color: #fff;
   display: block;
 }
 .pm-footer-section .pm-footer-widget .pm-footer-support a, .header-type-one .pm-header-support a {
@@ -16148,7 +16148,7 @@ SaaSio - HR Management
   content: "";
   height: 40px;
   position: absolute;
-  background-color: #5c8ed0;
+  background-color: #fff;
 }
 @keyframes fadeFromLeft {
   0% {
@@ -16293,7 +16293,7 @@ SaaSio - HR Management
   position: absolute;
 }
 .pm-main-header .pm-logo {
-  margin-top: 15px;
+  margin-top: 0px;
 }
 .pm-main-header .dropdown {
   position: relative;
@@ -16406,10 +16406,11 @@ SaaSio - HR Management
   width: 100%;
 }
 .pm-main-header .pm-header-btn {
-  height: 60px;
+  height: 65px;
   width: 115px;
   line-height: 60px;
-  border: 2px solid #3c87eb;
+  border: 2px solid #fff;
+  border-radius: 10px;
   transition: 0.3s all ease-in-out;
 }
 .pm-main-header .pm-header-btn a {
@@ -16420,8 +16421,8 @@ SaaSio - HR Management
   font-weight: 700;
 }
 .pm-main-header .pm-header-btn:hover {
-  background-color: #000;
-  border: 2px solid #000;
+  background-color: #26B99A;
+  border: 2px solid #26B99A;
 }
 
 .header-type-one .container {
@@ -16430,7 +16431,7 @@ SaaSio - HR Management
 .pm-sticky-menu {
   top: 20px;
   position: fixed;
-  background-color: #000;
+  background-color: #26B99A;
   animation-duration: 0.7s;
   animation-fill-mode: both;
   animation-name: fadeInDown;
@@ -16456,7 +16457,7 @@ SaaSio - HR Management
 /*----------------------------------------------------*/
 .pm-banner-section-1 {
   padding: 275px 0px;
-  background: linear-gradient(-90deg, #227df8 0%, #0054c4 100%);
+  background: linear-gradient(-90deg, #60CCB5 0%, #26B99A 100%);
 }
 .pm-banner-section-1 .pm-banner-shape1 {
   top: 105px;
@@ -16481,7 +16482,9 @@ SaaSio - HR Management
 }
 .pm-banner-section-1 .pm-banner-content .pm-banner-text .pm-title-tag {
   color: #fff;
-  background-color: rgba(255, 255, 255, 0.102);
+  background-color: #26B99A;
+  /*background-color: rgba(255, 255, 255, 0.102);*/
+  border-radius: 10px;
 }
 .pm-banner-section-1 .pm-banner-content .pm-banner-text h1 {
   color: #fff;
@@ -16504,11 +16507,13 @@ SaaSio - HR Management
   font-weight: 700;
   line-height: 60px;
   text-align: center;
-  background-color: #003378;
+  background-color: #26B99A;
+  border-radius: 10px;
+  border-color: #fff;
   transition: 0.3s all ease-in-out;
 }
 .pm-banner-section-1 .pm-banner-content .pm-banner-text a:hover {
-  background-color: #000;
+  background-color: #26B99A;
 }
 .pm-banner-section-1 .pm-banner-content .pm-banenr-img {
   top: 0;
