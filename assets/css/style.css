@@ -16136,6 +16136,7 @@ SaaSio - HR Management
 .pm-footer-section .pm-footer-widget .pm-footer-support span, .header-type-one .pm-header-support span {
   color: #fff;
   display: block;
+
 }
 .pm-footer-section .pm-footer-widget .pm-footer-support a, .header-type-one .pm-header-support a {
   color: #fff;
@@ -16270,6 +16271,13 @@ SaaSio - HR Management
   padding-top: 15px;
 }
 
+.pm-section-titles h2 {
+  color: #fff;
+  font-size: 36px;
+  font-weight: 600;
+  padding-top: 15px;
+}
+
 .pm-scrollup {
   right: 0px;
   z-index: 5;
@@ -16281,7 +16289,7 @@ SaaSio - HR Management
   background-color: #fff;
 }
 .pm-scrollup i {
-  color: #003378;
+  color: #26B99A;
 }
 
 /*---------------------------------------------------- */
@@ -16640,7 +16648,7 @@ SaaSio - HR Management
   line-height: 50px;
   margin-right: 20px;
   border-radius: 100%;
-  background: linear-gradient(-90deg, #227df8 0%, #0054c4 100%);
+  background: linear-gradient(-90deg, #60CCB5 0%, #26B99A 100%);
 }
 .pm-feature-section-2 .pm-feature-content-2 .pm-feature-item-content .pm-f-process-icon i {
   color: #fff;
@@ -16831,7 +16839,7 @@ SaaSio - HR Management
 .pm-counter-section .pm-counter-text-icon .odometer,
 .pm-counter-section .pm-counter-text-icon strong {
   line-height: 1;
-  color: #003378;
+  color: #26B99A;
   font-weight: 600;
   font-size: 50px;
   font-family: "Poppins";
@@ -16845,7 +16853,7 @@ SaaSio - HR Management
   position: relative;
 }
 .pm-counter-section .pm-counter-text-icon p {
-  color: #003378;
+  color: #000;
   font-weight: 700;
   padding-top: 5px;
 }
@@ -16874,7 +16882,7 @@ SaaSio - HR Management
   margin-top: 18px;
 }
 .pm-testimonial-inner .pm-testimonial-author .pm-author-text h3 {
-  color: #003378;
+  color: #26B99A;
   font-size: 18px;
   font-weight: 600;
 }
@@ -16976,19 +16984,19 @@ SaaSio - HR Management
 .pm-footer-section .pm-footer-widget .widget-title {
   font-size: 18px;
   font-weight: 700;
-  color: #003378;
+  color: #26B99A;
   padding-bottom: 35px;
 }
 .pm-footer-section .pm-footer-widget .pm-footer-support {
-  color: #6480a7;
+  color: #26B99A;
 }
 .pm-footer-section .pm-footer-widget .pm-footer-support:before {
   top: -2px;
   width: 1px;
-  background: linear-gradient(-90deg, #227df8 0%, #0054c4 100%);
+  background: linear-gradient(-90deg, #26B99A 0%, #26B99A 100%);
 }
 .pm-footer-section .pm-footer-widget .pm-footer-support a {
-  color: #003378;
+  color: #26B99A;
 }
 .pm-footer-section .pm-footer-widget p {
   max-width: 280px;
@@ -17046,7 +17054,7 @@ SaaSio - HR Management
 .pm-footer-copyright .pm-footer-copyright-menu a {
   font-size: 16px;
   font-weight: 700;
-  color: #003378;
+  color: #26B99A;
   margin-right: 70px;
   transition: 0.3s all ease-in-out;
 }
@@ -17060,7 +17068,7 @@ SaaSio - HR Management
 .pm-call-to-action-section .call-to-action-wrapper {
   z-index: 1;
   padding: 100px 0px;
-  background: linear-gradient(-90deg, #227df8 0%, #0054c4 100%);
+  background: linear-gradient(-90deg, #60CCB5 0%, #26B99A 100%);
 }
 .pm-call-to-action-section .call-to-action-wrapper .pm-banner-shape1 {
   left: 85px;
@@ -17084,7 +17092,7 @@ SaaSio - HR Management
   max-width: 800px;
 }
 .pm-call-to-action-section .call-to-action-wrapper .pm-call-action-content p {
-  color: #adcdf9;
+  color: #fff;
   font-size: 18px;
   padding-top: 25px;
 }
@@ -17110,20 +17118,22 @@ SaaSio - HR Management
 }
 .pm-call-to-action-section .call-to-action-wrapper .pm-call-action-content .pm-call-action-btn a:nth-child(1) {
   width: 200px;
-  border: 2px solid #003378;
-  background-color: #003378;
+  border: 2px solid #fff;
+  background-color: #26B99A;
+  border-radius: 10px;
 }
 .pm-call-to-action-section .call-to-action-wrapper .pm-call-action-content .pm-call-action-btn a:nth-child(1):hover {
-  background-color: #000;
-  border: 2px solid #000;
+  background-color: #26B99A;
+  border: 2px solid #fff;
 }
 .pm-call-to-action-section .call-to-action-wrapper .pm-call-action-content .pm-call-action-btn a:nth-child(2) {
   width: 160px;
-  border: 2px solid #6f9fe0;
+  border: 2px solid #fff;
+  border-radius: 10px;
 }
 .pm-call-to-action-section .call-to-action-wrapper .pm-call-action-content .pm-call-action-btn a:nth-child(2):hover {
-  background-color: #000;
-  border: 2px solid #000;
+  background-color: #26B99A;
+  border: 2px solid #fff;
 }
 
 /*---------------------------------------------------- */
