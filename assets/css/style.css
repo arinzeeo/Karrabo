@@ -17019,6 +17019,7 @@ SaaSio - HR Management
   position: relative;
   display: inline-block;
   background-color: #fff;
+  color: #26B99A;
   transition: 0.3s all ease-in-out;
 }
 .pm-footer-section .pm-footer-widget .pm-footer-social a:after {
@@ -17030,7 +17031,7 @@ SaaSio - HR Management
   height: 0%;
   position: absolute;
   transition: 0.3s all ease-in-out;
-  background: linear-gradient(-90deg, #227df8 0%, #0054c4 100%);
+  background: linear-gradient(-90deg, #60CCB5 0%, #26B99A 100%);
 }
 .pm-footer-section .pm-footer-widget .pm-footer-social a:hover {
   color: #fff;
