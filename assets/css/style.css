@@ -16561,7 +16561,7 @@ SaaSio - HR Management
   max-width: 515px;
 }
 .pm-feature-section .pm-feature-cpntent {
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 .pm-feature-innerbox {
@@ -17119,7 +17119,7 @@ SaaSio - HR Management
 }
 .pm-call-to-action-section .call-to-action-wrapper .pm-call-action-content .pm-call-action-btn a:nth-child(1) {
   width: 200px;
-  border: 2px solid #fff;
+  border: 2px solid #26B99A;
   background-color: #26B99A;
   border-radius: 10px;
 }
@@ -17134,7 +17134,7 @@ SaaSio - HR Management
 }
 .pm-call-to-action-section .call-to-action-wrapper .pm-call-action-content .pm-call-action-btn a:nth-child(2):hover {
   background-color: #26B99A;
-  border: 2px solid #fff;
+  border: 2px solid #26B99A;
 }
 
 /*---------------------------------------------------- */
